@@ -1430,4 +1430,8 @@ input[type=text] {
   color: #5d1d28;
 }
 
+.oSource:hover {
+  color: rgba(247, 233, 135, 0.9) !important;
+}
+
 /*# sourceMappingURL=style.css.map */
